@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @NikhilMoudgil
-- 👀 I’m interested in web development
+- 👋 Hi, I’m NikhilMoudgil
 - 🌱 I’m currently learning how to grow
 - 💞️ I’m looking to collaborate on college projects yet
 - 📫  Reach me by email "nikhilmoudgil987@gmail.com"
-- 😄 Pronouns: ...
 - ⚡ Fun fact: i have yet to grab lot of things
 
 <!---
