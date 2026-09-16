@@ -1,6 +1,6 @@
 - 👋 Hi, I’m NikhilMoudgil
 - 🌱 I’m currently learning how to grow
-- 💞️ I’m looking to collaborate on college projects yet
+- 💞️ I’m looking to collaborate on real world projects 
 - 📫  Reach me by email "nikhilmoudgil987@gmail.com"
 - ⚡ Fun fact: i have yet to grab lot of things
 
